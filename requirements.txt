@@ -1,8 +1,11 @@
+fastapi
+uvicorn
 streamlit
+requests
+python-jose
+python-multipart
 pypdf
-langchain
-langchain-community
-langchain-openai
-faiss-cpu
-openai
-tiktoken
+chromadb
+sentence-transformers
+transformers
+torch
